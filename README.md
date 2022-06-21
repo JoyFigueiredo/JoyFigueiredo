@@ -45,7 +45,7 @@
 <h4> Informações Notebook: </h4>
 </p>
  
-[<img src="https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()  [<img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />]()  [<img src="https://img.shields.io/badge/Windows-10_Home_SL-0078D6?style=for-the-badge&logo=windows&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()  [<img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />]()  [<img src="https://img.shields.io/badge/Windows-11_Home_SL-0078D6?style=for-the-badge&logo=windows&logoColor=white" />]()
 
 <p> ..................................................................................................................................................................................</p>
 
