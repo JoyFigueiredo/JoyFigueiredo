@@ -1,22 +1,23 @@
-# Oii :grin:
+#Oii :grin:
 
 <h2> Me chamo Joice Figueiredo e este é meu perfil no github, seja bem vindo! </h2>
+<p> Cursando Engenharia da Computação no CEFET-MG/Timotéo. <p>
+<h2>
+Projetos
+</h2>
+- Projeto DislexInfo: DislexInfo é um site em Laravel, desenvolvido em aula em conjunto com mais dois colegas. O site tinha como objetivo informar as pessoas sobre a Dislexia e a Discalculia, oferencendo informações, dicas e jogos interativos. O site utilizou Laravel, HTML, CSS e JavaScript.
+- Jogo 2048: O Jogo 2048 foi desenvolvido em C utilizando a biblioteca Allegro. O projeto foi realizado em conjunto com uma colega e o c´odigo est´a dispon´ıvel no GitHub
+- Jogo Sudoku: O Jogo Sudoku foi desenvolvido em Java como parte de um projeto da disciplina de Algebra Linear. O ´
+objetivo do projeto era colocar em pr´atica os conhecimentos adquiridos na disciplina.
 
-<p> Cursando Engenharia da Computação no CEFET-MG/Timotéo.
-<p> ..................................................................................................................................................................................</p>
-
-<p>
-<h3> Tecnologias: </h3>
-</p>
- 
-[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />]() [<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />]() [<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">]() [<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">]() [<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">]() [<img src = "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">]() 
-
-<p> ..................................................................................................................................................................................</p> 
-
-[<img src = "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">]() [<img src = "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">]() [<img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">]() [<img src = "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">]()  [<img src = "https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">]() [<img src = "https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">]() [<img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">]() [<img src = "https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">]() [<img src = "https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">]() 
-
- <p> ..................................................................................................................................................................................</p>
-  
+<h3> Conhecimentos Técnicos e Pessoais</h3>
+○	Linguagens de Programação: Tenho experiência em diversas linguagens de programação, incluindo Java,C, Python, JavaScript, C++, SQL, React e Typescript. Al´em disso, possuo conhecimentos básicos emAssembly, R e VHDL.
+○	Softwares: Sou proficiente em Matlab e Produtos MS Office. Tenho experiˆencia com GitHub, Mockito,
+Arduino IDE, MySQL, Google Sheets e AutoCad.
+○	Framework: Node.js, Springboot, Tailwind e Spring.
+○	Conhecimentos Gerais de Neg´ocios: Trabalho bem em equipe, tenho conhecimento em rotinas de
+administra¸c˜ao e boa comunica¸c˜ao.
+○	Conhecimentos em L´ınguas: Conhecimento intermediario em inglˆes e espanhol.
 <h4>Onde me encontrar: </h4>
 </p>
 
@@ -49,4 +50,3 @@
 
 [<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/JoyFigueiredo) [<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />](https://account.xbox.com/pt-BR/Profile?xr=mebarnav) [<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/digdigj0y)
 
-<p> ..................................................................................................................................................................................</p>
