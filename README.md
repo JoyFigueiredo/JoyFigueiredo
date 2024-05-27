@@ -7,16 +7,16 @@ Projetos
 </h2>
   <p>
 - Projeto DislexInfo: DislexInfo é um site em Laravel, desenvolvido em aula em conjunto com mais dois colegas. O site tinha como objetivo informar as pessoas sobre a Dislexia e a Discalculia, oferencendo informações, dicas e jogos interativos. O site utilizou Laravel, HTML, CSS e JavaScript.</br>
-- Jogo 2048: O Jogo 2048 foi desenvolvido em C utilizando a biblioteca Allegro. O projeto foi realizado em conjunto com uma colega e o c´odigo est´a dispon´ıvel no GitHub</br>
-- Jogo Sudoku: O Jogo Sudoku foi desenvolvido em Java como parte de um projeto da disciplina de Algebra Linear. O objetivo do projeto era colocar em pr´atica os conhecimentos adquiridos na disciplina.
+- Jogo 2048: O Jogo 2048 foi desenvolvido em C utilizando a biblioteca Allegro. O projeto foi realizado em conjunto com uma colega e o código está disponível no GitHub</br>
+- Jogo Sudoku: O Jogo Sudoku foi desenvolvido em Java como parte de um projeto da disciplina de Algebra Linear. O objetivo do projeto era colocar em prática os conhecimentos adquiridos na disciplina.
 </p>
 <p>
-<h3> Conhecimentos Técnicos e Pessoais</h3>
--  Linguagens de Programação: Tenho experiência em diversas linguagens de programação, incluindo Java,C, Python, JavaScript, C++, SQL, React e Typescript. Al´em disso, possuo conhecimentos básicos emAssembly, R e VHDL.
--  Softwares: Sou proficiente em Matlab e Produtos MS Office. Tenho experiˆencia com GitHub, Mockito, Arduino IDE, MySQL, Google Sheets e AutoCad.
--  Framework: Node.js, Springboot, Tailwind e Spring.
--  Conhecimentos Gerais de Neg´ocios: Trabalho bem em equipe, tenho conhecimento em rotinas de administra¸c˜ao e boa comunica¸c˜ao.
--  Conhecimentos em L´ınguas: Conhecimento intermediario em inglˆes e espanhol.
+<h2> Conhecimentos Técnicos e Pessoais</h2>
+-  Linguagens de Programação: Tenho experiência em diversas linguagens de programação, incluindo Java,C, Python, JavaScript, C++, SQL, React e Typescript. Além disso, possuo conhecimentos básicos em Assembly, R e VHDL. </br>
+-  Softwares: Sou proficiente em Matlab e Produtos MS Office. Tenho experiência com GitHub, Mockito, Arduino IDE, MySQL, Google Sheets e AutoCad.</br>
+-  Framework: Node.js, Springboot, Tailwind e Spring.</br>
+-  Conhecimentos Gerais de Negócios: Trabalho bem em equipe, tenho conhecimento em rotinas de administração e boa comunicação.</br>
+-  Conhecimentos em Línguas: Conhecimento intermediario em inglês e espanhol.</br>
 <h4>Onde me encontrar: </h4>
 </p>
 
