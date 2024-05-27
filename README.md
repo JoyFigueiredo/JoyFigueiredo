@@ -11,13 +11,11 @@ Projetos
 objetivo do projeto era colocar em pr´atica os conhecimentos adquiridos na disciplina.
 
 <h3> Conhecimentos Técnicos e Pessoais</h3>
-○	Linguagens de Programação: Tenho experiência em diversas linguagens de programação, incluindo Java,C, Python, JavaScript, C++, SQL, React e Typescript. Al´em disso, possuo conhecimentos básicos emAssembly, R e VHDL.
-○	Softwares: Sou proficiente em Matlab e Produtos MS Office. Tenho experiˆencia com GitHub, Mockito,
-Arduino IDE, MySQL, Google Sheets e AutoCad.
-○	Framework: Node.js, Springboot, Tailwind e Spring.
-○	Conhecimentos Gerais de Neg´ocios: Trabalho bem em equipe, tenho conhecimento em rotinas de
-administra¸c˜ao e boa comunica¸c˜ao.
-○	Conhecimentos em L´ınguas: Conhecimento intermediario em inglˆes e espanhol.
+-  Linguagens de Programação: Tenho experiência em diversas linguagens de programação, incluindo Java,C, Python, JavaScript, C++, SQL, React e Typescript. Al´em disso, possuo conhecimentos básicos emAssembly, R e VHDL.
+-  Softwares: Sou proficiente em Matlab e Produtos MS Office. Tenho experiˆencia com GitHub, Mockito, Arduino IDE, MySQL, Google Sheets e AutoCad.
+-  Framework: Node.js, Springboot, Tailwind e Spring.
+-  Conhecimentos Gerais de Neg´ocios: Trabalho bem em equipe, tenho conhecimento em rotinas de administra¸c˜ao e boa comunica¸c˜ao.
+-  Conhecimentos em L´ınguas: Conhecimento intermediario em inglˆes e espanhol.
 <h4>Onde me encontrar: </h4>
 </p>
 
