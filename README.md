@@ -1,14 +1,17 @@
-#Oii :grin:
+# Oii :grin:
 
-<h2> Me chamo Joice Figueiredo e este é meu perfil no github, seja bem vindo! </h2>
+<h2> Sou Joice Figueiredo, seja bem vindo(a)! </h2>
 <p> Cursando Engenharia da Computação no CEFET-MG/Timotéo. <p>
 <h2>
-Projetos
+**Projetos**
 </h2>
   <p>
-- Projeto DislexInfo: DislexInfo é um site em Laravel, desenvolvido em aula em conjunto com mais dois colegas. O site tinha como objetivo informar as pessoas sobre a Dislexia e a Discalculia, oferencendo informações, dicas e jogos interativos. O site utilizou Laravel, HTML, CSS e JavaScript.</br>
-- Jogo 2048: O Jogo 2048 foi desenvolvido em C utilizando a biblioteca Allegro. O projeto foi realizado em conjunto com uma colega e o código está disponível no GitHub</br>
-- Jogo Sudoku: O Jogo Sudoku foi desenvolvido em Java como parte de um projeto da disciplina de Algebra Linear. O objetivo do projeto era colocar em prática os conhecimentos adquiridos na disciplina.
+- [Projeto DislexInfo](https://github.com/JoyFigueiredo/DislexInfo): DislexInfo é um site em Laravel, desenvolvido em aula em conjunto com mais dois colegas. O site tinha como objetivo informar as pessoas sobre a Dislexia e a Discalculia, oferencendo informações, dicas e jogos interativos. O site utilizou Laravel, HTML, CSS e JavaScript.</br>
+
+- [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048): O Jogo 2048 foi desenvolvido em C utilizando a biblioteca Allegro. O projeto foi realizado em conjunto com uma colega e o código está disponível no GitHub</br>
+
+- [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku): O Jogo Sudoku foi desenvolvido em Java como parte de um projeto da disciplina de Algebra Linear. O objetivo do projeto era colocar em prática os conhecimentos adquiridos na disciplina.
+  </br>
 </p>
 <p>
 <h2> Conhecimentos Técnicos e Pessoais</h2>
