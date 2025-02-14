@@ -13,6 +13,7 @@ Projetos
 - [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku): O Jogo Sudoku foi desenvolvido em Java como parte de um projeto da disciplina de Algebra Linear. O objetivo do projeto era colocar em prática os conhecimentos adquiridos na disciplina;
 - [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048): O Jogo 2048 foi desenvolvido em C utilizando a biblioteca Allegro. O projeto foi realizado em conjunto com uma colega e o código está disponível no GitHub;
 - [Projeto DislexInfo](https://github.com/JoyFigueiredo/DislexInfo): DislexInfo é um site em Laravel, desenvolvido em aula em conjunto com mais dois colegas. O site tinha como objetivo informar as pessoas sobre a Dislexia e a Discalculia, oferencendo informações, dicas e jogos interativos. O site utilizou Laravel, HTML, CSS e JavaScript.
+- [Projeto AppIgreja](https://github.com/LucasODuarte/AppIgreja): Projeto sem fins lucrativos, criado para Igreja Nossa Senhora de Fatima, para divulgação dos horarios de eventos e coleta de dados dos fieis para finas de melhorar. 
   </br>
 </p>
 
