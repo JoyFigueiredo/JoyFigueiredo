@@ -24,7 +24,12 @@ Projetos
 
 - Linguagens de Programação: Tenho experiência com:
   - Java ([Computação Evolucionária](https://github.com/JoyFigueiredo/CE), [Teorema de Bayes, MLP, Perceptron](https://github.com/JoyFigueiredo/IC), [Monte Carlo](https://github.com/JoyFigueiredo/OtimizacaoII), [Sudoku](https://github.com/JoyFigueiredo/Sudoku), [AED2-Maratonas](https://github.com/JoyFigueiredo/AED2), [Dixon](https://github.com/JoyFigueiredo/Dixon), [Sudoku](https://github.com/JoyFigueiredo/Sudoku) );
-  - diversas linguagens de programação, C, Python, JavaScript, C++, SQL, React e Typescript. Além disso, possuo conhecimentos básicos em Assembly e R;
+  - C ([Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048), [Maratona](https://github.com/JoyFigueiredo/ProgC_Maratona));
+  - Python ([Chat com duas linguagens](https://github.com/JoyFigueiredo/Chat2Liguagem))
+  - JavaScript ([Petshop](https://github.com/JoyFigueiredo/Petshop), [Portifolio inacabado](https://github.com/JoyFigueiredo/Petshop));
+  - C++ ([Arduino](https://github.com/JoyFigueiredo/ArduinoHobby), [Computação Grafica](https://github.com/JoyFigueiredo/CG))
+  - Typescript ([AppIgreja](https://github.com/LucasODuarte/AppIgreja));
+  -  SQL, React e Typescript. Além disso, possuo conhecimentos básicos em Assembly e R;
 - Softwares: Sou proficiente em Matlab e Produtos MS Office. Tenho experiência com GitHub, Mockito, Arduino IDE, MySQL, Google Sheets e AutoCad;
 - Framework: Node.js, Springboot, Tailwind e Spring;
 - Conhecimentos Gerais de Negócios: Trabalho bem em equipe, tenho conhecimento em rotinas de administração e boa comunicação;
