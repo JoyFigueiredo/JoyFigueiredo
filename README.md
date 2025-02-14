@@ -3,23 +3,22 @@
 <h2> Sou Joice Figueiredo, seja bem vindo(a)! </h2>
 <p> Cursando Engenharia da Computação no CEFET-MG/Timotéo. <p>
 <h2>
-**Projetos**
+** Projetos **
 </h2>
   <p>
-- [Projeto DislexInfo](https://github.com/JoyFigueiredo/DislexInfo): DislexInfo é um site em Laravel, desenvolvido em aula em conjunto com mais dois colegas. O site tinha como objetivo informar as pessoas sobre a Dislexia e a Discalculia, oferencendo informações, dicas e jogos interativos. O site utilizou Laravel, HTML, CSS e JavaScript.</br>
-
-- [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048): O Jogo 2048 foi desenvolvido em C utilizando a biblioteca Allegro. O projeto foi realizado em conjunto com uma colega e o código está disponível no GitHub</br>
-
-- [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku): O Jogo Sudoku foi desenvolvido em Java como parte de um projeto da disciplina de Algebra Linear. O objetivo do projeto era colocar em prática os conhecimentos adquiridos na disciplina.
+    
+- [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku): O Jogo Sudoku foi desenvolvido em Java como parte de um projeto da disciplina de Algebra Linear. O objetivo do projeto era colocar em prática os conhecimentos adquiridos na disciplina;
+- [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048): O Jogo 2048 foi desenvolvido em C utilizando a biblioteca Allegro. O projeto foi realizado em conjunto com uma colega e o código está disponível no GitHub;
+- [Projeto DislexInfo](https://github.com/JoyFigueiredo/DislexInfo): DislexInfo é um site em Laravel, desenvolvido em aula em conjunto com mais dois colegas. O site tinha como objetivo informar as pessoas sobre a Dislexia e a Discalculia, oferencendo informações, dicas e jogos interativos. O site utilizou Laravel, HTML, CSS e JavaScript.
   </br>
 </p>
 <p>
 <h2> Conhecimentos Técnicos e Pessoais</h2>
--  Linguagens de Programação: Tenho experiência em diversas linguagens de programação, incluindo Java,C, Python, JavaScript, C++, SQL, React e Typescript. Além disso, possuo conhecimentos básicos em Assembly, R e VHDL. </br>
--  Softwares: Sou proficiente em Matlab e Produtos MS Office. Tenho experiência com GitHub, Mockito, Arduino IDE, MySQL, Google Sheets e AutoCad.</br>
--  Framework: Node.js, Springboot, Tailwind e Spring.</br>
--  Conhecimentos Gerais de Negócios: Trabalho bem em equipe, tenho conhecimento em rotinas de administração e boa comunicação.</br>
--  Conhecimentos em Línguas: Conhecimento intermediario em inglês e espanhol.</br>
+-  Linguagens de Programação: Tenho experiência em diversas linguagens de programação, incluindo Java,C, Python, JavaScript, C++, SQL, React e Typescript. Além disso, possuo conhecimentos básicos em Assembly e R;
+-  Softwares: Sou proficiente em Matlab e Produtos MS Office. Tenho experiência com GitHub, Mockito, Arduino IDE, MySQL, Google Sheets e AutoCad;
+-  Framework: Node.js, Springboot, Tailwind e Spring;
+-  Conhecimentos Gerais de Negócios: Trabalho bem em equipe, tenho conhecimento em rotinas de administração e boa comunicação;
+-  Conhecimentos em Línguas: Conhecimento avançado em inglês e espanhol.
 <h4>Onde me encontrar: </h4>
 </p>
 
