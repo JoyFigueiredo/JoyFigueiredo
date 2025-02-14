@@ -54,19 +54,4 @@ Projetos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredo&layout=compact)](https://github.com/JoyFigueiredo)
 
----
-
-<p>
-<h4> Informações Notebook: </h4>
-</p>
- 
-[<img src="https://img.shields.io/badge/NVIDIA-MX110-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()  [<img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />]()  [<img src="https://img.shields.io/badge/Windows-11_Home_SL-0078D6?style=for-the-badge&logo=windows&logoColor=white" />]()
-
----
-
-<p>
-<h4>Plataformas de jogos: </h4>
-</p>
-
-[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/JoyFigueiredo) [<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />](https://account.xbox.com/pt-BR/Profile?xr=mebarnav) [<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/digdigj0y)
 
