@@ -22,7 +22,9 @@ Projetos
 <h2> Conhecimentos Técnicos e Pessoais</h2>
 <p>
 
-- Linguagens de Programação: Tenho experiência em diversas linguagens de programação, incluindo Java,C, Python, JavaScript, C++, SQL, React e Typescript. Além disso, possuo conhecimentos básicos em Assembly e R;
+- Linguagens de Programação: Tenho experiência com:
+  - Java ([Computação Evolucionária](https://github.com/JoyFigueiredo/CE), [Teorema de Bayes, MLP, Perceptron](https://github.com/JoyFigueiredo/IC), [Monte Carlo](https://github.com/JoyFigueiredo/OtimizacaoII), [Sudoku](https://github.com/JoyFigueiredo/Sudoku), [AED2-Maratonas](https://github.com/JoyFigueiredo/AED2), [Dixon](https://github.com/JoyFigueiredo/Dixon), [Sudoku](https://github.com/JoyFigueiredo/Sudoku) );
+  - diversas linguagens de programação, C, Python, JavaScript, C++, SQL, React e Typescript. Além disso, possuo conhecimentos básicos em Assembly e R;
 - Softwares: Sou proficiente em Matlab e Produtos MS Office. Tenho experiência com GitHub, Mockito, Arduino IDE, MySQL, Google Sheets e AutoCad;
 - Framework: Node.js, Springboot, Tailwind e Spring;
 - Conhecimentos Gerais de Negócios: Trabalho bem em equipe, tenho conhecimento em rotinas de administração e boa comunicação;
