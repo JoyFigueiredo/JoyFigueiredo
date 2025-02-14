@@ -2,6 +2,9 @@
 
 <h2> Sou Joice Figueiredo, seja bem vindo(a)! </h2>
 <p> Cursando Engenharia da Computação no CEFET-MG/Timotéo. <p>
+
+---
+  
 <h2>
 Projetos
 </h2>
@@ -12,7 +15,9 @@ Projetos
 - [Projeto DislexInfo](https://github.com/JoyFigueiredo/DislexInfo): DislexInfo é um site em Laravel, desenvolvido em aula em conjunto com mais dois colegas. O site tinha como objetivo informar as pessoas sobre a Dislexia e a Discalculia, oferencendo informações, dicas e jogos interativos. O site utilizou Laravel, HTML, CSS e JavaScript.
   </br>
 </p>
+
 ---
+
 <h2> Conhecimentos Técnicos e Pessoais</h2>
 <p>
 
@@ -21,8 +26,12 @@ Projetos
 - Framework: Node.js, Springboot, Tailwind e Spring;
 - Conhecimentos Gerais de Negócios: Trabalho bem em equipe, tenho conhecimento em rotinas de administração e boa comunicação;
 - Conhecimentos em Línguas: Conhecimento avançado em inglês e espanhol.
-<h4>Onde me encontrar: </h4>
+
 </p>
+
+---
+
+<h4>Onde me encontrar: </h4>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/JoyFigueired) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joice-barros-de-figueiredo-081728214/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joyfigueired/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/JoyFigueired/)
 <img src = "https://img.shields.io/badge/joicebfigueiredo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
