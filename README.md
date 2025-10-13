@@ -1,57 +1,66 @@
-# Oii :grin:
+# 👋 Olá, eu sou Joice Figueiredo
+### Estudante de Engenharia da Computação (CEFET-MG, Timóteo) | Desenvolvimento de Software e Automação | Experiência em Projetos de Jogos e Industrial
 
-<h2> Sou Joice Figueiredo, seja bem vindo(a)! </h2>
-<p> Cursando Engenharia da Computação no CEFET-MG/Timotéo. <p>
+🌎 Brasil  
+📫 joicebfigueiredo@gmail.com  
+[GitHub](https://github.com/JoyFigueiredo) | [LinkedIn](https://www.linkedin.com/in/joicebfigueiredo/)
 
 ---
   
-<h2>
-Projetos
-</h2>
-  <p>
-    
-- [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku): O Jogo Sudoku foi desenvolvido em Java como parte de um projeto da disciplina de Algebra Linear. O objetivo do projeto era colocar em prática os conhecimentos adquiridos na disciplina;
-- [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048): O Jogo 2048 foi desenvolvido em C utilizando a biblioteca Allegro. O projeto foi realizado em conjunto com uma colega e o código está disponível no GitHub;
-- [Projeto DislexInfo](https://github.com/JoyFigueiredo/DislexInfo): DislexInfo é um site em Laravel, desenvolvido em aula em conjunto com mais dois colegas. O site tinha como objetivo informar as pessoas sobre a Dislexia e a Discalculia, oferencendo informações, dicas e jogos interativos. O site utilizou Laravel, HTML, CSS e JavaScript.
-- [Projeto AppIgreja](https://github.com/LucasODuarte/AppIgreja): Projeto sem fins lucrativos, criado para Igreja Nossa Senhora de Fatima, para divulgação dos horarios de eventos e coleta de dados dos fieis para finas de melhorar. 
-  </br>
-</p>
+## 🚀 Projetos em Destaque
+
+| Projeto | Tecnologias | Descrição |
+|---------|-------------|-----------|
+| [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku) | Java | Implementação do Sudoku como projeto da disciplina de Álgebra Linear. |
+| [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048) | C, Allegro | Projeto colaborativo com foco em lógica de jogos e manipulação gráfica. |
+| [DislexInfo](https://github.com/JoyFigueiredo/DislexInfo) | Laravel, JS, CSS, HTML | Site informativo sobre Dislexia e Discalculia com jogos interativos e dicas educacionais. |
+| [AppIgreja](https://github.com/LucasODuarte/AppIgreja) | Typescript, React | App sem fins lucrativos para divulgação de eventos e coleta de dados de fiéis. |
+| [Projeto Arduino](https://github.com/JoyFigueiredo/ArduinoHobby) | C++ | Protótipos educativos com documentação visual, datasheets e exemplos práticos. |
+
 
 ---
 
-<h2> Conhecimentos Técnicos e Pessoais</h2>
-<p>
+## 🛠️ Tecnologias e Habilidades
 
-- Linguagens de Programação: Tenho experiência com:
-  - Java ([Computação Evolucionária](https://github.com/JoyFigueiredo/CE), [Teorema de Bayes, MLP, Perceptron](https://github.com/JoyFigueiredo/IC), [Monte Carlo](https://github.com/JoyFigueiredo/OtimizacaoII), [Sudoku](https://github.com/JoyFigueiredo/Sudoku), [AED2-Maratonas](https://github.com/JoyFigueiredo/AED2), [Dixon](https://github.com/JoyFigueiredo/Dixon), [Sudoku](https://github.com/JoyFigueiredo/Sudoku) );
-  - C ([Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048), [Maratona](https://github.com/JoyFigueiredo/ProgC_Maratona));
-  - Python ([Chat com duas linguagens](https://github.com/JoyFigueiredo/Chat2Liguagem))
-  - JavaScript ([Petshop](https://github.com/JoyFigueiredo/Petshop), [Portifolio inacabado](https://github.com/JoyFigueiredo/Petshop));
-  - C++ ([Arduino](https://github.com/JoyFigueiredo/ArduinoHobby), [Computação Grafica](https://github.com/JoyFigueiredo/CG))
-  - Typescript ([AppIgreja](https://github.com/LucasODuarte/AppIgreja));
-  -  SQL, React e Typescript. Além disso, possuo conhecimentos básicos em Assembly e R;
-- Softwares: Sou proficiente em Matlab e Produtos MS Office. Tenho experiência com GitHub, Mockito, Arduino IDE, MySQL, Google Sheets e AutoCad;
-- Framework: Node.js, Springboot, Tailwind e Spring;
-- Conhecimentos Gerais de Negócios: Trabalho bem em equipe, tenho conhecimento em rotinas de administração e boa comunicação;
-- Conhecimentos em Línguas: Conhecimento avançado em inglês e espanhol.
+**Linguagens de Programação:**  
+![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
 
-</p>
+**Frameworks e Ferramentas:**  
+Node.js, Spring Boot, Tailwind, Laravel, ASP.NET, Angular, React, Google Sheets, Arduino IDE, AutoCAD
+
+**Idiomas:**  
+Inglês avançado, Espanhol avançado
 
 ---
 
-<h4>Onde me encontrar: </h4>
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/JoyFigueired) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joice-barros-de-figueiredo-081728214/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/joyfigueired/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/JoyFigueired/)
-<img src = "https://img.shields.io/badge/joicebfigueiredo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
----
-
+<table>
+<tr>
+<td>
 <a href="https://github.com/JoyFigueiredo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoyFigueiredo&theme=jolly&show_icons=true" />
 </a>
+</td>
+<td>
+<a href="https://github.com/JoyFigueiredo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredo&layout=compact&theme=jolly" />
+</a>
+</td>
+</tr>
+</table>
+
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredo&layout=compact)](https://github.com/JoyFigueiredo)
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joicebfigueiredo/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoyFigueiredo) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joicebfigueiredo@gmail.com)
+
 
 
