@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Joice Figueiredo
-### Estudante de Engenharia da Computação (CEFET-MG, Timóteo) | Desenvolvimento de Software e Automação | Experiência em Projetos de Jogos e Industrial
+### Engenharia da Computação (CEFET-MG, Timóteo) | Desenvolvimento de Software e Automação | Experiência em Projetos de Jogos e Industrial
 
 🌎 Brasil  
 📫 joicebfigueiredo@gmail.com  
