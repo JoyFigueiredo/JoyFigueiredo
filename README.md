@@ -11,7 +11,7 @@
   
 ## 🚀 Projetos em Destaque
 
-| Projeto | Tecnologias | Descrição |
+|   Projeto   | Tecnologias | Descrição |
 |---------|-------------|-----------|
 | [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku) | Java | Implementação do Sudoku como projeto da disciplina de Álgebra Linear. |
 | [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048) | C, Allegro | Projeto colaborativo com foco em lógica de jogos e manipulação gráfica. |
