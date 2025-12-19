@@ -35,10 +35,10 @@
 ---
 
 ## Repositorios
-| Repositorio | Tecnologias | Descrição |
+|   Repositorio   | Tecnologias | Descrição |
 |---------|-------------|-----------|
 | [Faculdade 1](https://github.com/JoyFigueiredo/Faculdade1) | Java |  |
-| [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048) | C, Allegro | Projeto colaborativo com foco em lógica de jogos e manipulação gráfica. |
+| []() |||
 
 ---
 
