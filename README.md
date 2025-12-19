@@ -2,8 +2,10 @@
 ### Engenharia da Computação (CEFET-MG, Timóteo) | Desenvolvimento de Software e Automação | Experiência em Projetos de Jogos e Industrial
 
 🌎 Brasil  
-📫 joicebfigueiredo@gmail.com  
-[GitHub](https://github.com/JoyFigueiredo) | [LinkedIn](https://www.linkedin.com/in/joicebfigueiredo/)
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joicebfigueiredo/) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoyFigueiredo) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joicebfigueiredo@gmail.com)
 
 ---
   
@@ -30,8 +32,15 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
 
-**Frameworks e Ferramentas:**  
-Node.js, Spring Boot, Tailwind, Laravel, ASP.NET, Angular, React, Google Sheets, Arduino IDE, AutoCAD
+---
+
+## Repositorios
+| Repositorio | Tecnologias | Descrição |
+|---------|-------------|-----------|
+| [Faculdade 1](https://github.com/JoyFigueiredo/Faculdade1) | Java |  |
+| [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048) | C, Allegro | Projeto colaborativo com foco em lógica de jogos e manipulação gráfica. |
+
+---
 
 **Idiomas:**  
 Inglês avançado, Espanhol avançado
@@ -56,11 +65,7 @@ Inglês avançado, Espanhol avançado
 
 ---
 
-## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joicebfigueiredo/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoyFigueiredo) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joicebfigueiredo@gmail.com)
 
 
 
