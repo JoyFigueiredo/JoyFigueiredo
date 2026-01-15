@@ -1,5 +1,12 @@
-# 👋 Olá, eu sou Joice Figueiredo
-### Engenharia da Computação (CEFET-MG, Timóteo) | Desenvolvimento de Software e Automação | Experiência em Projetos de Jogos e Industrial
+
+# 👋 Olá, sou Joice Figueiredo
+
+🎓 **Engenharia da Computação** (CEFET‑MG, Timóteo)  
+💻 **Desenvolvimento de Software e Automação**  
+🎮 **Projetos em Jogos e Automação Industrial**  
+📍 Brasil
+
+---
 
 🌎 Brasil  
 ## 📫 Contato
@@ -9,41 +16,76 @@
 
 ---
   
-## 🚀 Projetos em Destaque
+# 🏆 Destaques do Portfólio
 
-|   Projeto   | Tecnologias | Descrição |
-|---------|-------------|-----------|
-| [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku) | Java | Implementação do Sudoku como projeto da disciplina de Álgebra Linear. |
-| [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048) | C, Allegro | Projeto colaborativo com foco em lógica de jogos e manipulação gráfica. |
-| [DislexInfo](https://github.com/JoyFigueiredo/DislexInfo) | Laravel, JS, CSS, HTML | Site informativo sobre Dislexia e Discalculia com jogos interativos e dicas educacionais. |
-| [AppIgreja](https://github.com/LucasODuarte/AppIgreja) | Typescript, React | App sem fins lucrativos para divulgação de eventos e coleta de dados de fiéis. |
-| [Projeto Arduino](https://github.com/JoyFigueiredo/ArduinoHobby) | C++ | Protótipos educativos com documentação visual, datasheets e exemplos práticos. |
+## 🎮 Jogo Sudoku  
+- **Tecnologias:** Java  
+- **Descrição:** Implementação completa de um jogo Sudoku com interface de console, lógica de resolução e verificação de solução. Projeto acadêmico da disciplina de Álgebra Linear.
 
+## 🧩 Jogo 2048  
+- **Tecnologias:** C, Allegro  
+- **Descrição:** Versão gráfica do popular jogo 2048, desenvolvida em equipe. Foco em manipulação de gráficos, design de interface e lógica de movimentação por grades.
 
----
+## 🌐 DislexInfo  
+- **Tecnologias:** Laravel, JavaScript, HTML, CSS  
+- **Descrição:** Site informativo sobre dislexia e discalculia, com quizzes interativos, jogos educativos e recursos direcionados a educadores e famílias.
 
-## 🛠️ Tecnologias e Habilidades
+## ⛪ AppIgreja  
+- **Tecnologias:** TypeScript, React  
+- **Descrição:** Aplicativo web desenvolvido para uma instituição religiosa sem fins lucrativos, voltado para divulgação de eventos e coleta de dados de fiéis.
 
-**Linguagens de Programação:**  
-![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-
----
-
-## Repositorios
-|   Repositorio   | Tecnologias | Descrição |
-|---------|-------------|-----------|
-| [Faculdade 1](https://github.com/JoyFigueiredo/Faculdade1) | Java |  |
-| []() |||
+## 📡 ArduinoHobby  
+- **Tecnologias:** C++  
+- **Descrição:** Coleção de protótipos com Arduino — desde sensores simples a módulos comunicantes — com documentação visual, datasheets e exemplos de uso.
 
 ---
+
+
+
+## 🛠️ Habilidades Técnicas
+
+**Linguagens:**  
+Java • C • C++ • Python • JavaScript • TypeScript  
+
+**Frameworks & Ferramentas:**  
+Laravel • React • Allegro • Arduino
 
 **Idiomas:**  
-Inglês avançado, Espanhol avançado
+Inglês — avançado  
+Espanhol — avançado
+
+---
+
+## 🔭 Outros Repositórios Públicos
+
+| Repositório             | Tecnologias | Descrição |
+|------------------------|-------------|-----------|
+| **Faculdade1**         | Java        | Exercícios e projetos acadêmicos em Java. |
+| *(Insira aqui outros)* | (Adicionar) | (Adicionar breves descrições, conforme o caso) |
+
+---
+
+## 📊 Estatísticas
+
+| Estatística GitHub |
+|--------------------|
+| ![Total de commits, repos, etc.](https://github-readme-stats.vercel.app/api?username=JoyFigueiredoE&theme=jolly&show_icons=true) |
+| ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredoE&layout=compact&theme=jolly) |
+
+---
+
+
+## 💡 O que me diferencia
+
+- Forte experiência em lógica, estrutura de dados e resolução de problemas (com jogos como Sudoku e 2048);
+- Projetos full-stack com foco em usuário final (como DislexInfo e AppIgreja);
+- Automação e protótipos práticos com Arduino, documentados para fácil replicação.
+
+---
+
+## 📌 Se quiser saber mais
+
+Explore meu perfil e os repositórios acima para ver demos, screencasts, tutoriais passo a passo, e mais detalhes técnicos 💡
 
 ---
 
