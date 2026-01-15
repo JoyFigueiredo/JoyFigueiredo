@@ -64,49 +64,32 @@ Espanhol — avançado
 
 ## 📊 Estatísticas
 
-<table>
-<tr>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoyFigueiredoE&theme=jolly&show_icons=true" />
-</td>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredoE&layout=compact&theme=jolly" />
-</td>
-</tr>
-</table>
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JoyFigueiredoE&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub de Joice"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredoE&layout=compact&theme=jolly&langs_count=8"
+    alt="Linguagens mais usadas por Joice"
+    height="160"
+  />
+</p>
 
 ---
 
-
 ## 💡 O que me diferencia
 
-- Forte experiência em lógica, estrutura de dados e resolução de problemas (com jogos como Sudoku e 2048);
-- Projetos full-stack com foco em usuário final (como DislexInfo e AppIgreja);
-- Automação e protótipos práticos com Arduino, documentados para fácil replicação.
+- Experiência forte em lógica, estrutura de dados e resolução de problemas (Sudoku, 2048).
+- Projetos full‑stack focados no usuário final (DislexInfo e AppIgreja).
+- Protótipos de automação com Arduino, com documentação para replicação.
 
 ---
 
 ## 📌 Se quiser saber mais
 
 Explore meu perfil e os repositórios acima para ver demos, screencasts, tutoriais passo a passo, e mais detalhes técnicos 💡
-
----
-
-<table>
-<tr>
-<td>
-<a href="https://github.com/JoyFigueiredo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoyFigueiredo&theme=jolly&show_icons=true" />
-</a>
-</td>
-<td>
-<a href="https://github.com/JoyFigueiredo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredo&layout=compact&theme=jolly" />
-</a>
-</td>
-</tr>
-</table>
-
 
 ---
 
