@@ -61,18 +61,6 @@ Espanhol — avançado
 
 ---
 
-
-## 📊 Estatísticas
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyFigueiredoE&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredoE&layout=compact&theme=jolly&langs_count=8" />
-</p>
-
-
----
-
 ## 💡 O que me diferencia
 
 - Experiência forte em lógica, estrutura de dados e resolução de problemas (Sudoku, 2048).
