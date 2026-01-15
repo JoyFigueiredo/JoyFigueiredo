@@ -64,18 +64,12 @@ Espanhol — avançado
 
 ## 📊 Estatísticas
 
+
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JoyFigueiredoE&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub de Joice"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredoE&layout=compact&theme=jolly&langs_count=8"
-    alt="Linguagens mais usadas por Joice"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoyFigueiredoE&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredoE&layout=compact&theme=jolly&langs_count=8" />
 </p>
+
 
 ---
 
