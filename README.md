@@ -57,16 +57,23 @@ Espanhol — avançado
 | Repositório             | Tecnologias | Descrição |
 |------------------------|-------------|-----------|
 | **Faculdade1**         | Java        | Exercícios e projetos acadêmicos em Java. |
-| *(Insira aqui outros)* | (Adicionar) | (Adicionar breves descrições, conforme o caso) |
+|  |  |  |
 
 ---
 
+
 ## 📊 Estatísticas
 
-| Estatística GitHub |
-|--------------------|
-| ![Total de commits, repos, etc.](https://github-readme-stats.vercel.app/api?username=JoyFigueiredoE&theme=jolly&show_icons=true) |
-| ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredoE&layout=compact&theme=jolly) |
+<table>
+<tr>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoyFigueiredoE&theme=jolly&show_icons=true" />
+</td>
+<td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyFigueiredoE&layout=compact&theme=jolly" />
+</td>
+</tr>
+</table>
 
 ---
 
