@@ -16,29 +16,27 @@
   
 # 🏆 Destaques do Portfólio
 
-## 🎮 Jogo Sudoku  
+## 🎮 [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku)  
 - **Tecnologias:** Java  
 - **Descrição:** Implementação completa de um jogo Sudoku com interface de console, lógica de resolução e verificação de solução. Projeto acadêmico da disciplina de Álgebra Linear.
 
-## 🧩 Jogo 2048  
+## 🧩 [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048)  
 - **Tecnologias:** C, Allegro  
 - **Descrição:** Versão gráfica do popular jogo 2048, desenvolvida em equipe. Foco em manipulação de gráficos, design de interface e lógica de movimentação por grades.
 
-## 🌐 DislexInfo  
+## 🌐 [DislexInfo](https://github.com/JoyFigueiredo/DislexInfo)  
 - **Tecnologias:** Laravel, JavaScript, HTML, CSS  
 - **Descrição:** Site informativo sobre dislexia e discalculia, com quizzes interativos, jogos educativos e recursos direcionados a educadores e famílias.
 
-## ⛪ AppIgreja  
+## ⛪ [AppIgreja](https://github.com/LucasODuarte/AppIgreja)  
 - **Tecnologias:** TypeScript, React  
 - **Descrição:** Aplicativo web desenvolvido para uma instituição religiosa sem fins lucrativos, voltado para divulgação de eventos e coleta de dados de fiéis.
 
-## 📡 ArduinoHobby  
+## 📡 [ArduinoHobby](https://github.com/JoyFigueiredo/ArduinoHobby)  
 - **Tecnologias:** C++  
 - **Descrição:** Coleção de protótipos com Arduino — desde sensores simples a módulos comunicantes — com documentação visual, datasheets e exemplos de uso.
 
 ---
-
-
 
 ## 🛠️ Habilidades Técnicas
 
