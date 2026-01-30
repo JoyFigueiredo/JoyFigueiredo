@@ -1,10 +1,16 @@
 
-# 👋 Olá, sou Joice Figueiredo
+<h1 align="center">Olá, sou a Joice 👋</h1>
 
-🎓 **Engenharia da Computação** (CEFET‑MG, Timóteo)  
-💻 **Desenvolvimento de Software e Automação**  
-🎮 **Projetos em Jogos e Automação Industrial**  
+<p align="center">
+Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C • Web (Laravel/React)
+</p>
 📍 Brasil
+
+<p align="center">
+  <img src="https://img.shields.io/badge/país-Brasil-green" />
+  <img src="https://img.shields.io/badge/área-Engenharia%20de%20Computação-purple" />
+  <img src="https://img.shields.io/badge/interesses-IA%20%7C%20ML%20%7C%20Otimização-blue" />
+</p>
 
 ---
 
@@ -38,17 +44,13 @@
 
 ---
 
-## 🛠️ Habilidades Técnicas
 
-**Linguagens:**  
-Java • C • C++ • Python • JavaScript • TypeScript  
+## 🛠️ Tecnologias
 
-**Frameworks & Ferramentas:**  
-Laravel • React • Allegro • Arduino
-
-**Idiomas:**  
-Inglês — avançado  
-Espanhol — avançado
+**Linguagens:** Java · C · C++ · Python · JavaScript/TypeScript · SQL  
+**Frameworks:** Spring Boot · Laravel · React · Angular · Tailwind  
+**IA/ML:** Perceptron · MLP · Bayes · Estimadores (Gaussiano/KDE) · NSGA‑II  
+**Ferramentas:** Git/GitHub · Arduino IDE · MySQL · AutoCAD · Mockito
 
 ---
 
