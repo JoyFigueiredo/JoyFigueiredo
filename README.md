@@ -2,12 +2,12 @@
 <h1 align="center">Olá, sou a Joice 👋</h1>
 
 <p align="center">
-Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C • Web (Laravel/React)<br>
+Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C • Web (Laravel/React) </br>
   📍 Brasil
 </p>
 
 
-< align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/país-Brasil-green" />
   <img src="https://img.shields.io/badge/área-Engenharia%20de%20Computação-purple" />
   <img src="https://img.shields.io/badge/interesses-IA%20%7C%20ML%20%7C%20Otimização-blue" />
