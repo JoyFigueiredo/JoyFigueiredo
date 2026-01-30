@@ -15,9 +15,11 @@ Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C •
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joicebfigueiredo/) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoyFigueiredo) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joicebfigueiredo@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">LinkedIn</a> •
+  <a href="https://github.com/JoyFigueiredo">GitHub</a> •
+  <a href="mailto:joicebfigueiredo@gmail.com">E-mail</a>
+</p>
 
 ---
   
