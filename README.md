@@ -2,9 +2,10 @@
 <h1 align="center">Olá, sou a Joice 👋</h1>
 
 <p align="center">
-Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C • Web (Laravel/React)
+Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C • Web (Laravel/React)<br>
+  📍 Brasil
 </p>
-📍 Brasil
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/país-Brasil-green" />
@@ -13,11 +14,11 @@ Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C •
 </p>
 
 ---
-
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joicebfigueiredo/) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoyFigueiredo) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joicebfigueiredo@gmail.com)
-
+</p>
 ---
   
 # 🏆 Destaques do Portfólio
