@@ -13,8 +13,6 @@ Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C •
   <img src="https://img.shields.io/badge/interesses-IA%20%7C%20ML%20%7C%20Otimização-blue" />
 </p>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN">LinkedIn</a> •
   <a href="https://github.com/JoyFigueiredo">GitHub</a> •
