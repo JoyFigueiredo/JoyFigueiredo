@@ -2,15 +2,15 @@
 <h1 align="center">Olá, sou a Joice 👋</h1>
 
 <p align="center">
-Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C • Web (Laravel/React) </br>
-  📍 Brasil
+Engenharia de Computação (CEFET-MG) • IA & Machine Learning • Desenvolvimento Full-Stack • Sistemas <br/>
+📍 Brasil
 </p>
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/país-Brasil-green" />
   <img src="https://img.shields.io/badge/área-Engenharia%20de%20Computação-purple" />
-  <img src="https://img.shields.io/badge/interesses-IA%20%7C%20ML%20%7C%20Otimização-blue" />
+ <img src="https://img.shields.io/badge/foco-IA%20%7C%20FullStack%20%7C%20Otimização-blue" />
 </p>
 
 <p align="center">
@@ -23,39 +23,66 @@ Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C •
   
 # 🏆 Destaques do Portfólio
 
-## 🎮 [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku)  
-- **Tecnologias:** Java  
-- **Descrição:** Implementação completa de um jogo Sudoku com interface de console, lógica de resolução e verificação de solução. Projeto acadêmico da disciplina de Álgebra Linear.
+## 🔲 [QR Code Studio](https://github.com/JoyFigueiredo/qr-code-studio)
+**Vue 3 · TypeScript · Docker**
 
-## 🧩 [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048)  
-- **Tecnologias:** C, Allegro  
-- **Descrição:** Versão gráfica do popular jogo 2048, desenvolvida em equipe. Foco em manipulação de gráficos, design de interface e lógica de movimentação por grades.
-
-## 🌐 [DislexInfo](https://github.com/JoyFigueiredo/DislexInfo)  
-- **Tecnologias:** Laravel, JavaScript, HTML, CSS  
-- **Descrição:** Site informativo sobre dislexia e discalculia, com quizzes interativos, jogos educativos e recursos direcionados a educadores e famílias.
-
-## ⛪ [AppIgreja](https://github.com/LucasODuarte/AppIgreja)  
-- **Tecnologias:** TypeScript, React  
-- **Descrição:** Aplicativo web desenvolvido para uma instituição religiosa sem fins lucrativos, voltado para divulgação de eventos e coleta de dados de fiéis.
-
-## 📡 [ArduinoHobby](https://github.com/JoyFigueiredo/ArduinoHobby)  
-- **Tecnologias:** C++  
-- **Descrição:** Coleção de protótipos com Arduino — desde sensores simples a módulos comunicantes — com documentação visual, datasheets e exemplos de uso.
+Aplicação web para geração de QR Codes personalizados com histórico local, download e impressão.  
+Arquitetura modular com composables, organização de componentes e containerização para deploy.
 
 ---
 
+## 🎮 [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku)
+**Java**
 
-## 🛠️ Tecnologias
-
-**Linguagens:** Java · C · C++ · Python · JavaScript/TypeScript · SQL  
-**Frameworks:** Spring Boot · Laravel · React · Angular · Tailwind  
-**IA/ML:** Perceptron · MLP · Bayes · Estimadores (Gaussiano/KDE) · NSGA‑II  
-**Ferramentas:** Git/GitHub · Arduino IDE · MySQL · AutoCAD · Mockito
+Implementação completa de Sudoku em console com geração, validação e verificação automática de solução.  
+Foco em lógica, estrutura de dados e organização algorítmica.
 
 ---
 
-## 🔭 Outros Repositórios Públicos
+## 🧩 [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048)
+**C · Allegro**
+
+Versão gráfica do jogo 2048 desenvolvida em equipe.  
+Trabalho com manipulação de matrizes, lógica de movimentação por grades e renderização gráfica.
+
+---
+
+## 🌐 [DislexInfo](https://github.com/JoyFigueiredo/DislexInfo)
+**Laravel · JavaScript · HTML · CSS**
+
+Plataforma informativa sobre dislexia e discalculia com quizzes interativos e jogos educativos.  
+Projeto com foco em acessibilidade e experiência do usuário.
+
+---
+
+## ⛪ [AppIgreja](https://github.com/LucasODuarte/AppIgreja)
+**React · TypeScript**
+
+Aplicação web para instituição sem fins lucrativos voltada para divulgação de eventos e coleta de dados.
+
+---
+
+## 📡 [ArduinoHobby](https://github.com/JoyFigueiredo/ArduinoHobby)
+**C++ · Arduino**
+
+Protótipos com sensores e módulos comunicantes, com documentação técnica para replicação.
+
+---
+
+# 🛠️ Stack Técnica
+
+**Linguagens:**  
+Java · C · C++ · Python · JavaScript · TypeScript · SQL  
+
+**Frameworks & Ferramentas:**  
+Spring Boot · Laravel · React · Angular · Tailwind · Git · Docker · MySQL  
+
+**IA & Otimização:**  
+Perceptron · MLP · Bayes · Estimadores (Gaussiano/KDE) · NSGA-II  
+
+---
+
+# 🔭 Outros Repositórios Públicos
 
 | Repositório             | Tecnologias | Descrição |
 |------------------------|-------------|-----------|
@@ -64,17 +91,21 @@ Engenharia de Computação (CEFET‑MG) • Machine Learning & IA • Java/C •
 
 ---
 
-## 💡 O que me diferencia
+# 💡 O que me diferencia
 
-- Experiência forte em lógica, estrutura de dados e resolução de problemas (Sudoku, 2048).
-- Projetos full‑stack focados no usuário final (DislexInfo e AppIgreja).
-- Protótipos de automação com Arduino, com documentação para replicação.
+- Forte base em lógica, estruturas de dados e algoritmos.
+- Experiência em projetos acadêmicos e aplicações voltadas ao usuário final.
+- Integração entre software e hardware (Arduino).
+- Organização de código e foco em boas práticas.
 
 ---
 
-## 📌 Se quiser saber mais
+# 📌 Sobre mim
 
-Explore meu perfil e os repositórios acima para ver demos, screencasts, tutoriais passo a passo, e mais detalhes técnicos 💡
+Sou apaixonada por resolver problemas complexos e transformar lógica em soluções funcionais.  
+Interesso-me especialmente por IA aplicada, otimização e sistemas inteligentes.
+
+Explore os repositórios para ver implementações, documentação técnica e evolução dos projetos 🚀
 
 ---
 
