@@ -21,7 +21,7 @@ Engenharia de Computação (CEFET-MG) • IA & Machine Learning • Desenvolvime
 
 ---
   
-# 🏆 Destaques do Portfólio
+# 🏆 Featured Projects / Destaques do Portfólio
 
 ## 🔲 [QR Code Studio](https://github.com/JoyFigueiredo/qr-code-studio)
 **Vue 3 · TypeScript · Docker**
@@ -36,7 +36,7 @@ Arquitetura modular com composables, organização de componentes e containeriza
 
 ---
 
-## 🎮 [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku)
+## 🎮 [Sudoku Game](https://github.com/JoyFigueiredo/Sudoku)
 **Java**
 
 [EN]
@@ -49,9 +49,13 @@ Foco em lógica, estrutura de dados e organização algorítmica.
 
 ---
 
-## 🧩 [Jogo 2048](https://github.com/JoyFigueiredo/Jogo2048)
+## 🧩 [2048 Game](https://github.com/JoyFigueiredo/Jogo2048)
 **C · Allegro**
+[EN]
+Graphic version of the 2048 game developed as a team project.
+Work focused on matrix manipulation, grid‑based movement logic, and graphical rendering.
 
+[BR]
 Versão gráfica do jogo 2048 desenvolvida em equipe.  
 Trabalho com manipulação de matrizes, lógica de movimentação por grades e renderização gráfica.
 
