@@ -25,6 +25,7 @@ Engenharia de Computação (CEFET-MG) • IA & Machine Learning • Desenvolvime
 
 ## 🔲 [QR Code Studio](https://github.com/JoyFigueiredo/qr-code-studio)
 **Vue 3 · TypeScript · Docker**
+
 [EN]
 Web application for genetating customized QR Codes with local history, download, and printing features.
 Modular architecture with composables, component organization, and containerization for deployment.
