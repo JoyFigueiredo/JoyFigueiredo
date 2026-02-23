@@ -25,7 +25,11 @@ Engenharia de Computação (CEFET-MG) • IA & Machine Learning • Desenvolvime
 
 ## 🔲 [QR Code Studio](https://github.com/JoyFigueiredo/qr-code-studio)
 **Vue 3 · TypeScript · Docker**
+[EN]
+Web application for genetating customized QR Codes with local history, download, and printing features.
+Modular architecture with composables, component organization, and containerization for deployment.
 
+[BR]
 Aplicação web para geração de QR Codes personalizados com histórico local, download e impressão.  
 Arquitetura modular com composables, organização de componentes e containerização para deploy.
 
@@ -34,6 +38,11 @@ Arquitetura modular com composables, organização de componentes e containeriza
 ## 🎮 [Jogo Sudoku](https://github.com/JoyFigueiredo/Sudoku)
 **Java**
 
+[EN]
+Complete console-based Sudoku implementation with puzzle generation, validation, and automatic solution checking.
+Focus on logic, data structures, and algorithmic organization.
+
+[BR]
 Implementação completa de Sudoku em console com geração, validação e verificação automática de solução.  
 Foco em lógica, estrutura de dados e organização algorítmica.
 
