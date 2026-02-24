@@ -51,6 +51,7 @@ Foco em lógica, estrutura de dados e organização algorítmica.
 
 ## 🧩 [2048 Game](https://github.com/JoyFigueiredo/Jogo2048)
 **C · Allegro**
+
 [EN]
 Graphic version of the 2048 game developed as a team project.
 Work focused on matrix manipulation, grid‑based movement logic, and graphical rendering.
@@ -63,6 +64,8 @@ Trabalho com manipulação de matrizes, lógica de movimentação por grades e r
 
 ## 🌐 [DislexInfo](https://github.com/JoyFigueiredo/DislexInfo)
 **Laravel · JavaScript · HTML · CSS**
+
+
 
 Plataforma informativa sobre dislexia e discalculia com quizzes interativos e jogos educativos.  
 Projeto com foco em acessibilidade e experiência do usuário.
