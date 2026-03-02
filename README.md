@@ -19,6 +19,8 @@ Engenharia de Computação (CEFET-MG) • IA & Machine Learning • Desenvolvime
   <a href="mailto:joicebfigueiredo@gmail.com">E-mail</a>
 </p>
 
+# 🏆 Featured Projects / Destaques do Portfólio
+
 ---
 
 ## 🎮 [Sudoku Game](https://github.com/JoyFigueiredo/Sudoku)
@@ -63,8 +65,6 @@ Projeto com foco em acessibilidade e experiência do usuário.
 Aplicação web para instituição sem fins lucrativos voltada para divulgação de eventos e coleta de dados.
 
 ---
-
-# 🏆 Featured Projects / Destaques do Portfólio
 
 ## 🔲 [QR Code Studio](https://github.com/JoyFigueiredo/qr-code-studio)
 **Vue 3 · TypeScript · Docker**
