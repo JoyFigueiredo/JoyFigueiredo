@@ -20,21 +20,6 @@ Engenharia de Computação (CEFET-MG) • IA & Machine Learning • Desenvolvime
 </p>
 
 ---
-  
-# 🏆 Featured Projects / Destaques do Portfólio
-
-## 🔲 [QR Code Studio](https://github.com/JoyFigueiredo/qr-code-studio)
-**Vue 3 · TypeScript · Docker**
-
-[EN]
-Web application for genetating customized QR Codes with local history, download, and printing features.
-Modular architecture with composables, component organization, and containerization for deployment.
-
-[BR]
-Aplicação web para geração de QR Codes personalizados com histórico local, download e impressão.  
-Arquitetura modular com composables, organização de componentes e containerização para deploy.
-
----
 
 ## 🎮 [Sudoku Game](https://github.com/JoyFigueiredo/Sudoku)
 **Java**
@@ -76,6 +61,21 @@ Projeto com foco em acessibilidade e experiência do usuário.
 **React · TypeScript**
 
 Aplicação web para instituição sem fins lucrativos voltada para divulgação de eventos e coleta de dados.
+
+---
+
+# 🏆 Featured Projects / Destaques do Portfólio
+
+## 🔲 [QR Code Studio](https://github.com/JoyFigueiredo/qr-code-studio)
+**Vue 3 · TypeScript · Docker**
+
+[EN]
+Web application for genetating customized QR Codes with local history, download, and printing features.
+Modular architecture with composables, component organization, and containerization for deployment.
+
+[BR]
+Aplicação web para geração de QR Codes personalizados com histórico local, download e impressão.  
+Arquitetura modular com composables, organização de componentes e containerização para deploy.
 
 ---
 
