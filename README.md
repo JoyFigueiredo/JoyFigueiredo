@@ -14,12 +14,25 @@ Engenharia de Computação (CEFET-MG) • IA & Machine Learning • Desenvolvime
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/joicebfigueiredo/">LinkedIn</a> •
   <a href="https://github.com/JoyFigueiredo">GitHub</a> •
   <a href="mailto:joicebfigueiredo@gmail.com">E-mail</a>
 </p>
 
 # 🏆 Featured Projects / Destaques do Portfólio
+
+---
+
+## 🐾 [Automatic Pet Feeder – TCC](https://github.com/JoyFigueiredo/SEU_REPOSITORIO_TCC)
+**C/C++ · Arduino · Embedded Systems**
+
+[EN]  
+Embedded system developed as a Final Graduation Project (TCC) to automate pet feeding through scheduled portions and controlled dispensing.  
+The project integrates microcontroller programming, hardware control, automation concepts, and system architecture design.
+
+[BR]  
+Sistema embarcado desenvolvido como Trabalho de Conclusão de Curso (TCC) para automatizar a alimentação de pets com controle de horários e porções.  
+O projeto integra programação de microcontroladores, controle de hardware, conceitos de automação e arquitetura de sistemas.
 
 ---
 
