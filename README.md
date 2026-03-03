@@ -18,6 +18,7 @@ Engenharia de Computação (CEFET-MG) • IA & Machine Learning • Desenvolvime
   <a href="https://github.com/JoyFigueiredo">GitHub</a> •
   <a href="mailto:joicebfigueiredo@gmail.com">E-mail</a>
 </p>
+
 ---
 
 ## 👩‍💻 About Me
