@@ -18,6 +18,17 @@ Engenharia de Computação (CEFET-MG) • IA & Machine Learning • Desenvolvime
   <a href="https://github.com/JoyFigueiredo">GitHub</a> •
   <a href="mailto:joicebfigueiredo@gmail.com">E-mail</a>
 </p>
+---
+
+## 👩‍💻 About Me
+
+Computer Engineering graduate with strong foundations in **algorithms, data structures, and system design**.  
+
+I work across the stack — from **embedded systems and hardware integration** to **full-stack web applications** — with a growing focus on **Artificial Intelligence and optimization algorithms**.
+
+I enjoy building structured, scalable, and technically consistent solutions.
+
+---
 
 # 🏆 Featured Projects / Destaques do Portfólio
 
