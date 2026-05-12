@@ -6,6 +6,11 @@ Engenharia de Computação (CEFET-MG) • IA & Machine Learning • Desenvolvime
 📍 Brasil
 </p>
 
+<p align="center">
+  <a href="https://joyfigueiredo.github.io/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Acessar-7c3aed?style=for-the-badge" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/país-Brasil-green" />
