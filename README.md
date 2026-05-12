@@ -40,7 +40,7 @@ I enjoy building structured, scalable, and technically consistent solutions.
 
 ---
 
-## 🐾 [Automatic Pet Feeder – TCC](https://github.com/JoyFigueiredo/SEU_REPOSITORIO_TCC)
+## 🐾 [Automatic Pet Feeder – TCC](https://github.com/JoyFigueiredo/AlimentadorDePet)
 **C/C++ · Arduino · Embedded Systems**
 
 [EN]  
